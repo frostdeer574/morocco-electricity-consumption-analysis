@@ -1,4 +1,4 @@
-# morocco_electricity_consumption_analysis
+# morocco-electricity-consumption-analysis
 This project is dedicated to analyzing time-series data of electricity consumption in Morocco in 2017 in three distinct zones.
 The dataset used for this project is publicly available at [Maven Analytics](https://mavenanalytics.io/data-playground/morocco-electricity-consumption), and was originally downloaded from the UCI Machine Learning Repository.
 
